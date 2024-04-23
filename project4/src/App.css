@@ -1,0 +1,74 @@
+body{
+    margin:0;
+    width:100vw;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("./assets/Winter iPhone Wallpapers - 28 Cute Winter iPhone Backgrounds.jpg");
+}
+.container{
+    background-color:rgb(119, 185, 226);
+    padding:20px;
+    align-items: center;
+    border-radius: 10px;
+}
+.sere{
+    height:20px;
+    cursor:pointer;
+}
+.cit{
+    border-radius: 10px;
+    border-color: rgb(0, 17, 255);
+    height:30px;
+}
+.int{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:20px;
+}
+.dege{
+    font-size:30px;;
+    text-align: center;
+}
+.st,.ct{
+    color:rgba(221, 255, 0, 0.94);
+    text-align: center;
+    font-size:30px;
+    text-transform: uppercase;
+}
+.cord{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+    gap:50px;
+}
+.cord div{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.wet{
+    display: flex;
+    gap:100px;
+}
+.wet div{
+    display: flex;
+    flex-direction: column;
+}
+.wete,.weth{
+    text-align:center;
+}
+.hum,.win{
+    align-items: center;
+}
+.ic{
+   padding:10px;
+}
+.ciit{
+    text-align: center;
+    color:rgb(64, 0, 255);
+    font-size: larger;
+}
